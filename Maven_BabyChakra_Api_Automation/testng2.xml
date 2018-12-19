@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Api_Automation_Suite">
+  <test thread-count="5" name="RegressionTest">
+    <classes>
+      <class name="MavenFramework.RestAssuredTest"/>
+      <class name="MavenFramework.AppiumTest"/>
+      <class name="MavenFramework.SeleniumTest"/>
+      <class name="MavenFramework.User_JourneyTest"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
