@@ -6,7 +6,7 @@
       <class name="MavenFramework.RestAssuredTest"/>
       <class name="MavenFramework.AppiumTest"/>
       <class name="MavenFramework.SeleniumTest"/>
-      <class name="MavenFramework.User_JourneyTest"/>
+     
      
     </classes>
   </test> <!-- Test -->
